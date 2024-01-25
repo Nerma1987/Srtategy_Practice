@@ -5,4 +5,7 @@ public class Hat {
 
     // Kids hat
     //Cows hats
+
+    //animals hat
+    // baby hat
 }
